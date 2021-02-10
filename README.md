@@ -1,3 +1,2 @@
-# hello-world
+# hello-word
 exercícios simples em Visualg
-hi, my name is joão!
